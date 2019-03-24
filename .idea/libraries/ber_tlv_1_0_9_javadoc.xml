@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ber-tlv-1.0-9-javadoc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/ber-tlv-1.0-9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
